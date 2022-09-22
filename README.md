@@ -1,6 +1,6 @@
 # Tony Stark Arc Reactor MK1
 
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Arc%20reactor%20front%20with%20name.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/PNG/Arc%20reactor%20front%20with%20name.png)
 
 ## Description
 
