@@ -29,10 +29,10 @@
   </tr>
     <tr>
     <th>Filament color</th>
-    <th>Your choice</th>
+    <th>Black & Transparent</th>
   </tr>
     <tr>
     <th>Filament material</th>
-    <th>Your choice</th>
+    <th>PLA</th>
   </tr>
 </table>
