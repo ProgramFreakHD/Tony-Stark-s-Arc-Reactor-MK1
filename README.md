@@ -47,6 +47,8 @@ fortunately I have included the step files so you can adjust and modify the arc 
 
 **(NOTE: SUPERGLUE OR ANY KIND OF BONDING COMPOUND ARE NOT ALLOWED DURING ASSEMBLY OF ARK REACTOR! ONLY SCREWS ARE MEANT TO BE USED DURING ASSEMBLING!)**
 
+Check out Assembly page to get some idea how to assembl it. [Click Here](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Configs/Assembly.md)
+
 ## Parts List
 
 [Click here for the parts list.](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Configs/Parts%20list.md)
