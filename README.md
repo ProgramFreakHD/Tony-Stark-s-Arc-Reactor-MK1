@@ -49,7 +49,7 @@ fortunately I have included the step files so you can adjust and modify the arc 
 
 ## Screws & Parts List
 
-[Click here for the screws & parts list.]()
+[Click here for the screws & parts list.](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Configs/Parts%20list.md)
 
 ## Images
 
