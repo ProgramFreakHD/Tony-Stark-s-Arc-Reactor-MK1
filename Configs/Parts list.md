@@ -14,12 +14,12 @@
 </table>
 
 ## M2 x 0.4mm Thread, 5mm Long
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/M2%20x%205mm%20x0.4mm.png)
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/M2%20x%205mm%20x0.4mm%20Diagram.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/M2%20x%205mm%20x0.4mm.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/M2%20x%205mm%20x0.4mm%20Diagram.png)
 
 ## M3 x 0.5mm Thread, 10mm Long
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/M3%20x%2010mm%20x%200.5mm.png)
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/M3%20x%2010mm%20x%200.5mm%20Diagram.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/M3%20x%2010mm%20x%200.5mm.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/M3%20x%2010mm%20x%200.5mm%20Diagram.png)
 
 # Components
 
@@ -33,5 +33,15 @@
     <th>1</th>
    <tr>
     <th>5mm White LED Diodes</th>
-    <th>5</th>
+    <th>10</th>
 </table>
+
+## 2.1mm x 5.5mm Female DC Jack
+
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/2.1mm%20x%205.5mm%20Female%20DC%20Jack.jpg)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/2.1mm%20x%205.5mm%20Female%20DC%20Jack%20Diagram.jpg)
+
+## 5mm White LED Diodes
+
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/H4411874ec0c6432e85a3fefa4a102458y.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/5mm%20White%20LED%20Diodes.jpg)
