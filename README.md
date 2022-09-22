@@ -1,4 +1,4 @@
-# Tony Stark Arc Reactor MK1
+# Tony Starks Arc Reactor MK1
 
 ![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Real%20Life%20Pictures/Arc%20reactor%20front%20with%20name.png)
 
