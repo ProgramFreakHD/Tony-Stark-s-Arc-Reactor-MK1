@@ -1,6 +1,6 @@
 <table>
     <tr>
-    <th>Parts name from STEP folder</th>
+    <th>Part Names</th>
     <th>Print settings</th>
     <th>Support on build plate only</th>
     <th>Vertical shells perimeters</th>
