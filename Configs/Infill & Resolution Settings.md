@@ -140,6 +140,6 @@
     <th>100%</th>
     <th>None</th>
     <th>Black PLA</th>
-    <th>10</th>
+    <th>1</th>
   </tr>
 </table>
