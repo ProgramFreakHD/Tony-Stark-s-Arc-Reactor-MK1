@@ -1,6 +1,6 @@
 # Tony Stark Arc Reactor MK1
 
-![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/PNG/Arc%20reactor%20front%20with%20name.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Real%20Life%20Pictures/Arc%20reactor%20front%20with%20name.png)
 
 ## Description
 
@@ -14,8 +14,8 @@ Recreated Tony Stark's arc reactor from Iron Man 1 (2008) movie. Hope you enjoy 
 
 ## Step & Fusion 360 Files
 
-[Step Files](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/tree/main/Arc%20Reactor%20MK1%20STEP%20Files)\
-[Fusion 360 CAD File](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/tree/main/Arc%20Reactor%20MK1%20Fusion%20360%20CAD)
+[Step Files](https://github.com/ProgramFreakHD/Ark-reactor/tree/main/Arc%20Reactor%20MK1%20STEP%20Files)\
+[STL Files](https://github.com/ProgramFreakHD/Ark-reactor/tree/main/Ark%20Reactor%20MK1%20STL%20Files)
 
 ## Summary
 
@@ -23,48 +23,11 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 
 ## Print Settings
 
-<table>
-  <tr>
-    <th>Printer brand</th>
-    <th>Prusa</th>
-  </tr>
-    <tr>
-    <th>Printer</th>
-    <th>I3 MK3S</th>
-  </tr>
-    <tr>
-    <th>Rafts</th>
-    <th>No</th>
-  </tr>
-    <tr>
-    <th>Supports</th>
-    <th>Yes</th>
-  </tr>
-    <tr>
-    <th>Resolution</th>
-    <th>Read the description</th>
-  </tr>
-    <tr>
-    <th>Infill</th>
-    <th>Read the description</th>
-  </tr>
-   <tr>
-   <th>Filament brand</th>
-   <th>Your choice</th>
-  </tr>
-    <tr>
-    <th>Filament color</th>
-    <th>Black & Transparent</th>
-  </tr>
-    <tr>
-    <th>Filament material</th>
-    <th>PLA</th>
-  </tr>
-</table>
+[Click here for the print setting.](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Configs/Print%20Settings.md)
 
 ## My Print Choice
 
-I decided to print mine in PLA, mainly because it's cheaper and easier to print, and doesn't have a big risk of warpage if you print without a heat chamber. For my arc reactor I decided to use black, transparent and gold PLA. You need transparent PLA or any other transparent filament to be able to make the glow rings and you need gold filament to print the gold ring in the center og arc reactor.
+I decided to print mine in PLA, mainly because it's cheaper and easy to print, and doesn't have a big risk of warpage if you print without a heat chamber. For my arc reactor I decided to use black, transparent & metallic gold PLA. You need transparent PLA or any other transparent filament to be able to make the glow rings, and you need gold filament to print the gold ring in the center of the arc reactor.
 
 Take a look in infill & resolution settings chart underneath to see what parts have to be printed in what filament color.
 
@@ -72,29 +35,28 @@ Take a look in infill & resolution settings chart underneath to see what parts h
 
 The infill & resolution settings I used for my arc reactor varies from parts to parts, most likely 20% infill, but for some parts it had to be 100%. I privided a chart for the print settings and resolution that I used, so that it will make it more easier for you to get you started printing.
 
-**(NOTE: MAKE SURE THAT ALL THE PARTS YOU LOAD INTO PRUSA SLICER IS IN THE UPRIGHT ORIENTATION AND MAKE SURE YOU ENABLE SUPPORT FOR SOME OF THE PARTS THAT REQUIRES SUPPORT! SEE INFILL & RESOLUTION SETTINGS!)**
+**(NOTE: DO NOT MESS WITH THE PARTS ORIENTATION WHEN YOU LOAD THE STL FILES INTO PRUSASLICER!)**
 
-Click [Here](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Infill%20%26%20Resolution%20Settings.md) for the infill & resolution settings.
+[Click here for the infill & resolution settings.](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Configs/Infill%20%26%20Resolution%20Settings.md)
 
 ## Assembling Of Arc Reacotr
 
-To assemble the arc reactor there is no easy way to scribing it, for some people it's a walk in the park and for some others it's mind baffling, I will tell you this, you need good level of soldiering skills, precision and accuracy to asseble it, beacuse it requires you to solder near plastic parts, and if you're not careful, you will end up with melt marks in the arc reactor.
+To assemble the arc reactor there is no easy way to scribing it, for some people it's a walk in the park and for some others it's mind baffling, I will tell you this, you need good level of soldiering skills, precision and accuracy to asseble it beacuse it requires you to solder near plastic parts, and if you're not careful, you will end up with melt marks in the arc reactor.
 
-fortunately I have included the fusion 360 file and also the step files so you can adjust and modify the arc reactor for the parts you have available. 
+fortunately I have included the step files so you can adjust and modify the arc reactor for the parts you have available. 
 
-(NOTE: SUPERGLUE OR ANY KIND OF BONDING COMPOUND ARE NOT ALLOWED DURING ASSEMBLY OF ARC REACTOR! ONLY SCREWS IS MEANT TO ASSEMBLE IT TOGETHER!)
+**(NOTE: SUPERGLUE OR ANY KIND OF BONDING COMPOUND ARE NOT ALLOWED DURING ASSEMBLY OF SPOOL HOLDER! ONLY SCREWS ARE MEANT TO BE USED DURING ASSEMBLING!)**
 
 ## Screws & Parts List
 
-Click [Here](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Screws%20%26%20Parts%20List.md) for the screws & parts list.
+[Click here for the screws & parts list.]()
 
 ## Images
 
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Arc%20reactor%20back%20with%20name.jpg)
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Arc%20Reactor%20Drawing.png)
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Fusion360_LcQDyRcJho.png)
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Fusion360_ZKFOaQVNEt.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Real%20Life%20Pictures/Arc%20reactor%20back%20with%20name.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/Arc%20Reactor%20MK1%20Drawing%20v1.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Fusion%20360%20Pictures/Transparant%20Background/Fusion360_LcQDyRcJho.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Fusion%20360%20Pictures/Transparant%20Background/Fusion360_ZKFOaQVNEt.png)
 
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Fusion360_kBt7qYsVyd.png)
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Fusion360_lrqPomg16u.png)
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Fusion360_jiuBankF1k.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Fusion%20360%20Pictures/Transparant%20Background/Fusion360_fTGEq8NfNz.png)
+![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Fusion%20360%20Pictures/Transparant%20Background/Fusion360_5GGEXJa134.png)
