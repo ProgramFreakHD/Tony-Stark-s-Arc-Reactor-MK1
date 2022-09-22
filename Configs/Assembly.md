@@ -9,6 +9,11 @@ The glow ring requires 10 white LED's soldered in a circular ring shape, now for
 
 ## Wire wrap and mounting
 
+Insert the Led ring you just finished soldering into the transparent glow ring print, from there, you need the 10pcs wire brackets and some enameled copper wire.
+
+To obtain the enameled copper wire, you can find meters worth of copper wires in some old transformers, or just buy some enameled copper wire from the web.
+
+To keep the copper wire from unwinding itself after a wrap, the best and easiest way I found is to scrape the enameling of the wire and solder the wires together for a secure fixturing.
 
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Real%20Life%20Pictures/2021_02_23_23_43_IMG_1699.png)
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Real%20Life%20Pictures/2021_02_23_23_45_IMG_1700.png)
