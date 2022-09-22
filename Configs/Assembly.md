@@ -1,6 +1,6 @@
 # LED ring assembly for the glow ring.
 
-## Soldering and jig for the glow ring led's
+## Soldering of the glow ring
 
 The glow ring requires 10 white LED's soldered in a circular ring shape, now for some and many, it might be dificult to solder 10 leds in a circle buy freehanding it, well, not wo worry, I have included a jig for you to print and use, it allows you to mount the LED's in a upright possiston for a better and easy solder job, and also allows you to solder them in a circular ring shape. This jig can be found [Here](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/tree/main/Arc%20Reactor%20MK1%20LED%20Ring%20Jig), both in STL and STEP format.
 
