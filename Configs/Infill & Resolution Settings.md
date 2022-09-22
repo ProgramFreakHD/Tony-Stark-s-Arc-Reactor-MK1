@@ -131,4 +131,15 @@
     <th>Black PLA</th>
     <th>10</th>
   </tr>
+    <tr>
+    <th>Center Led Plate</th>
+    <th>0.30mm Draft</th>
+    <th>Yes</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>100%</th>
+    <th>None</th>
+    <th>Black PLA</th>
+    <th>10</th>
+  </tr>
 </table>
