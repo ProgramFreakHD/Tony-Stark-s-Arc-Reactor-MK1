@@ -134,7 +134,7 @@
     <tr>
     <th>Center Led Plate</th>
     <th>0.30mm Draft</th>
-    <th>Yes</th>
+    <th>None</th>
     <th>3</th>
     <th>Grid</th>
     <th>100%</th>
