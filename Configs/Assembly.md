@@ -6,3 +6,9 @@ The glow ring requires 10 white LED's soldered in a circular ring shape, now for
 
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Real%20Life%20Pictures/2021_02_23_18_40_IMG_1695.png)
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Fusion%20360%20Pictures/Transparant%20Background/NVIDIA_Share_iF2AldNYLl.png)
+
+## Wire wrap and mounting
+
+
+![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Real%20Life%20Pictures/2021_02_23_23_43_IMG_1699.png)
+![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Real%20Life%20Pictures/2021_02_23_23_45_IMG_1700.png)
