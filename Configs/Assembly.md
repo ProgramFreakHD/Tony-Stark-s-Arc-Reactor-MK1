@@ -9,7 +9,7 @@ The glow ring requires 10 white LED's soldered in a circular ring shape, now for
 
 ## Wire wrap and mounting
 
-Insert the Led ring you just finished soldering into the transparent glow ring print, from there, you need the 10pcs wire brackets and some enameled copper wire.
+Insert the Led ring you just finished soldering into the transparent glow ring print, from there, you need the 10pcs wire brackets and some enameled copper wire. Don't forget to solder a pair of enameled copper wire to the led ring to provide power to the ring.
 
 To obtain the enameled copper wire, you can find meters worth of copper wires in some old transformers, or just buy some enameled copper wire from the web.
 
