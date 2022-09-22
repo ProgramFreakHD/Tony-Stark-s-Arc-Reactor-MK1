@@ -29,7 +29,7 @@
   </tr>
     <tr>
     <th>Filament color</th>
-    <th>Black & Transparent</th>
+    <th>Black, Transparent & Metallic Gold</th>
   </tr>
     <tr>
     <th>Filament material</th>
