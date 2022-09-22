@@ -16,3 +16,7 @@
 ## M2 x 0.4mm Thread, 5mm Long
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/M2%20x%205mm%20x0.4mm.png)
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/M2%20x%205mm%20x0.4mm%20Diagram.png)
+
+## M3 x 0.5mm Thread, 10mm Long
+![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/M3%20x%2010mm%20x%200.5mm.png)
+![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/M3%20x%2010mm%20x%200.5mm%20Diagram.png)
