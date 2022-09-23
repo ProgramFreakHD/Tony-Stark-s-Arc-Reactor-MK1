@@ -33,29 +33,7 @@
     <th>1</th>
   </tr>
     <tr>
-    <th>Large Ring</th>
-    <th>0.15mm QUALITY</th>
-    <th>None</th>
-    <th>3</th>
-    <th>Grid</th>
-    <th>100%</th>
-    <th>None</th>
-    <th>Black PLA</th>
-    <th>1</th>
-  </tr>
-    <tr>
-    <th>Medium Ring</th>
-    <th>0.15mm QUALITY</th>
-    <th>Yes</th>
-    <th>3</th>
-    <th>Grid</th>
-    <th>100%</th>
-    <th>None</th>
-    <th>Black PLA</th>
-    <th>1</th>
-  </tr>
-    <tr>
-    <th>Small Ring</th>
+    <th>Small, medium and large Rings</th>
     <th>0.15mm QUALITY</th>
     <th>None</th>
     <th>3</th>
