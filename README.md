@@ -4,6 +4,16 @@
 
 ## Description
 
+VARY IMPORTANT READ THIS!!
+
+This Arc reactor was design in Fusion 360 under the free license, The Autodesk team has stated that "non-commercial use" meaning no one is allowed to sell or manufature the Arc reactor for profit!
+
+DO NOT SEND ME ANY MESSAGE ABOUT PERSMISSION TO USE MY DESIGN FOR COMMERCIAL USE!
+
+I have no controll over what will happen if failed to follow the terms, I did my end of the agreement by stating the obvious, if the end user fails to follow these terms, you will be hold accountable!
+
+====================================================================
+
 Recreated Tony Stark's arc reactor from Iron Man 1 (2008) movie. Hope you enjoy it :)
 
 ## Links
