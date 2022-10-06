@@ -42,7 +42,6 @@ The infill & resolution settings I used for my arc reactor varies from parts to 
 
 To assemble the arc reactor there isn't an easy way of describing it, for some people it's a walk in the park and for some others it's mind baffling, I will tell you this, you need good level of soldiering skills, precision and accuracy to asseble it beacuse it requires you to solder near plastic parts, and if you're not careful, you will end up with melt marks in the arc reactor.
 
-Fortunately I have included the step files so you can adjust and modify the arc reactor for the parts you have available. 
 
 **(NOTE: SUPERGLUE OR ANY KIND OF BONDING COMPOUND ARE NOT ALLOWED DURING ASSEMBLY OF ARK REACTOR! ONLY SCREWS ARE MEANT TO BE USED DURING ASSEMBLING!)**
 
