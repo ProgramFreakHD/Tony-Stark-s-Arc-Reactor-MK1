@@ -14,7 +14,6 @@ Recreated Tony Stark's arc reactor from Iron Man 1 (2008) movie. Hope you enjoy 
 
 ## Step & Fusion 360 Files
 
-[Step Files](https://github.com/ProgramFreakHD/Ark-reactor/tree/main/Arc%20Reactor%20MK1%20STEP%20Files)\
 [STL Files](https://github.com/ProgramFreakHD/Ark-reactor/tree/main/Ark%20Reactor%20MK1%20STL%20Files)
 
 ## Summary
