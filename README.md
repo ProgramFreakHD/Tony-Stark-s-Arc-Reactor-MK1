@@ -23,10 +23,6 @@ Recreated Tony Stark's arc reactor from Iron Man 1 (2008) movie. Hope you enjoy 
 [Thingiverse Repo](https://www.thingiverse.com/thing:5526410)\
 [Yr3design Arc Reactor On Thingiverse](https://www.thingiverse.com/thing:2854850)
 
-## Step & Fusion 360 Files
-
-[STL Files](https://github.com/ProgramFreakHD/Ark-reactor/tree/main/Ark%20Reactor%20MK1%20STL%20Files)
-
 ## Summary
 
 After looking at so many designs by many people on thingiverse, I couldn't find anything worth printing, so I decided to design my own as I imagined. My design is a bit complicated and requires stady hands, accuracy and patience to make, but it was all worth it at the end. This repository includes everything you need to make your own arc reactor and a list of components you need.
