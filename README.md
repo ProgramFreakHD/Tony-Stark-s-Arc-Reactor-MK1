@@ -41,7 +41,6 @@ Take a look in infill & resolution settings chart underneath to see what parts h
 
 The infill & resolution settings I used for my arc reactor varies from parts to parts, most likely 20% infill, but for some parts it had to be 100%. I privided a chart for the print settings and resolution that I used, so that it will make it more easier for you to get you started printing.
 
-**(NOTE: DO NOT MESS WITH THE PARTS ORIENTATION WHEN YOU LOAD THE STL FILES INTO PRUSASLICER!)**
 
 [Click here for the infill & resolution settings.](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Configs/Infill%20%26%20Resolution%20Settings.md)
 
