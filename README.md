@@ -18,7 +18,7 @@ Recreated Tony Stark's arc reactor from Iron Man 1 (2008) movie. Hope you enjoy 
 
 ## Links
 
-[Thingiverse Repo](https://www.thingiverse.com/thing:5526410)
+[Thingiverse Repo](https://www.thingiverse.com/thing:5526410)\
 [Yr3design Arc Reactor On Thingiverse](https://www.thingiverse.com/thing:2854850)\
 [Fusion360 3D Preview](https://gmail306847.autodesk360.com/g/shares/SH56a43QTfd62c1cd968932302d8338467dc)
 
