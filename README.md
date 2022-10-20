@@ -4,7 +4,7 @@
 
 ## Description
 
-VARY IMPORTANT READ THIS!!
+READ THIS!!
 
 This Arc reactor was design in Fusion 360 under the free license, The Autodesk team has stated that "non-commercial use" meaning no one is allowed to sell or manufature the Arc reactor for profit!
 
