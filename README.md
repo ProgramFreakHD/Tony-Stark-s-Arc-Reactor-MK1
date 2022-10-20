@@ -13,7 +13,7 @@ DO NOT SEND ME ANY MESSAGE ABOUT PERSMISSION TO USE MY DESIGN FOR COMMERCIAL USE
 
 I have no controll over what will happen if failed to follow the terms, I did my end of the agreement by stating the obvious, if the end user fails to follow these terms, you will be hold accountable!
 
-If you like my work and would like to show appreciation then consider leaving a Tip. Thank you!** [PaypalMe](https://www.paypal.com/paypalme/ProgramFreakHD9999)
+If you like my work and would like to show appreciation then consider leaving a Tip. Thank you! [PaypalMe](https://www.paypal.com/paypalme/ProgramFreakHD9999)
 
 ====================================================================
 
