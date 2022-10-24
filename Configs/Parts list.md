@@ -37,6 +37,9 @@
    <tr>
     <th>5V To 3.3V Buck Converter</th>
     <th>1</th>
+   <tr>
+    <th>3.3V Star PCB LED</th>
+    <th>1</th>
 </table>
 
 ## 2.1mm x 5.5mm Female DC Jack
@@ -52,3 +55,8 @@
 ## 5V To 3.3V Buck Converter
 
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Pictures/Miscellaneous/1PCS-DC-5V-to-3-3V-Step-Down-Power-Supply-Module-AMS1117-3-3-LDO-800MA.jpg)
+
+## 3.3V Star PCB LED
+
+![alt text](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Pictures/Miscellaneous/1PCS-DC-5V-to-3-3V-Step-Down-Power-Supply-Module-AMS1117-3-3-LDO-800MA.jpg)
+
