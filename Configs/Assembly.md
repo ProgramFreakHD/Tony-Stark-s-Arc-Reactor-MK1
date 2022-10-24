@@ -11,6 +11,12 @@ The jig is included in the Thingiverse Repo!
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Real%20Life%20Pictures/2021_02_23_18_40_IMG_1695.png)
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Fusion%20360%20Pictures/Transparant%20Background/NVIDIA_Share_iF2AldNYLl.png)
 
+## Center LED
+
+The LED I used for the center of the arc reactor is a 3.3V cool white (6500k) star shaped PCB LED, nothing special with the way it's mounted, I have included a center LED plate for you to print and mount the star led on. Check out Parts list to find component and data sheets, [Click here](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Configs/Parts%20list.md)
+
+![alt text](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Pictures/Miscellaneous/s55-2241p01wc.jpg)
+
 # Wire wrap and mounting
 
 Insert the Led ring you just finished soldering into the transparent glow ring print, from there, you need the 10pcs wire brackets and some enameled copper wire. Don't forget to solder a pair of enameled copper wire to the led ring to provide power to the ring.
