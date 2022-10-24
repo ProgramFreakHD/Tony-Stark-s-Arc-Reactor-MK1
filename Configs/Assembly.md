@@ -30,5 +30,6 @@ Some advantages of using buck converter is that it gives you a voltage leeway if
 
 **The arc reactor is not designed to run of 12V so don't even try with my method of using 5V to 3.3V moduel unless you have taken proper voltage factor and accounted for the right moduel to allow you to use 12v supply!**
 
+![alt text](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Pictures/Miscellaneous/1PCS-DC-5V-to-3-3V-Step-Down-Power-Supply-Module-AMS1117-3-3-LDO-800MA.jpg)
 
 
