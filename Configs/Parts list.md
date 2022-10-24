@@ -34,6 +34,9 @@
    <tr>
     <th>5mm White LED Diodes</th>
     <th>10</th>
+   <tr>
+    <th>5V To 3.3V Boost & Buck Converter</th>
+    <th>1</th>
 </table>
 
 ## 2.1mm x 5.5mm Female DC Jack
