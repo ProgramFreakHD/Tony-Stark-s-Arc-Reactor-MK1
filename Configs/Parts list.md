@@ -1,3 +1,5 @@
+**Note, I have not included any direct link for eBay and AliExpress stores, I did that intentionally because some stores do not survive for long!**
+
 # Screws
 
 <table>
