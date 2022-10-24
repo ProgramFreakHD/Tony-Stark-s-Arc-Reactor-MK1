@@ -13,7 +13,7 @@ The jig is included in the Thingiverse Repo!
 
 ## Center LED
 
-The LED I used for the center of the arc reactor is a 3.3V cool white (6500k) star shaped PCB LED, nothing special with the way it's mounted, I have included a center LED plate for you to print and mount the star led on. Check out Parts list to find component and data sheets, [Click here](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Configs/Parts%20list.md)
+The LED I used for the center of the arc reactor is a 3.3V cool white (6500k) star shaped PCB LED, nothing special with the way it's mounted, I have included a center LED plate in the thingiverse repo for you to print and mount the star led on. Check out Parts list to find component and data sheets.
 
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Pictures/Miscellaneous/s55-2241p01wc.jpg)
 
