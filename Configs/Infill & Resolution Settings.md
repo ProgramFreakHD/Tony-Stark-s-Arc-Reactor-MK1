@@ -1,4 +1,4 @@
-NOTE: This chars is calibrated and designed for the Prusa I3 family printer with a standard E3D 0.4mm nozzl, The Prusa I3 family have a print resolution of minimum 0.05mm, up to a large number that is dependent on your material of choice.
+NOTE: This chart is calibrated and designed for the Prusa I3 family printer with a standard E3D 0.4mm nozzl, The Prusa I3 family have a print resolution of minimum 0.05mm, up to a large number that is dependent on your material of choice.
 
 Large amount of simple hobbyist own and use printers that is in Creality family, depending on your printer model and other factors, can vary your layer heigh significantly.
 
