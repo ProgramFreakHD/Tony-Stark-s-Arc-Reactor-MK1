@@ -6,7 +6,7 @@ The glow ring requires 10 white LED's soldered in a circular ring shape, The 10 
 
 Now for some and many, it might be dificult to solder 10 leds in a circle by freehanding it, well, not wo worry, I have included a jig for you to print and use, it allows you to mount the LED's in a upright possiston for a better and easy solder job, and also allows you to solder them in a circular ring shape.
 
-The jig is included in the Thingiverse Repo!
+The jig can be found [Here](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/tree/main/Led%20jig)!
 
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Real%20Life%20Pictures/2021_02_23_18_40_IMG_1695.png)
 ![alt text](https://github.com/ProgramFreakHD/Tony-Stark-Arc-Reactor-MK1/blob/main/Pictures/Fusion%20360%20Pictures/Transparant%20Background/NVIDIA_Share_iF2AldNYLl.png)
