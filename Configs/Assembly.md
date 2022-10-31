@@ -30,6 +30,6 @@ To keep the copper wire from unwinding itself after a wrap, the best and easiest
 
 # Power supply for the LED's
 
-To power the LED's a 3.3V power source is required for the LED, for my arc reactor I used 20 to 40 ohm resistor to drop down the power start with 20 ohms resistor and work yourself upwards, you can use a 3.3v powered led as a referance point as to what it sould look like, also make sure you test out the resistor on a spare led so you don't accidentally fry the main arc reactor LEDs.
+To power the LED's a 3.3V power source is required for the LED's, for my arc reactor I used 20 to 40 ohm resistor to drop down the power start with 20 ohms resistor and work yourself upwards, you can use a 3.3v powered led as a referance point as to what it sould look like, also make sure you test out the resistor on a spare led so you don't accidentally fry the main arc reactor LEDs.
 
 
