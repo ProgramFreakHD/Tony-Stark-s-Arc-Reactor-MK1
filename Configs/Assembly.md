@@ -30,14 +30,6 @@ To keep the copper wire from unwinding itself after a wrap, the best and easiest
 
 # Power supply for the LED's
 
-To power the LED's a 3.3V power source is required for the LED, for my arc reactor I used 5V to 3.3V step-down power moduel, that way I can supply 5VDC from an USB cable to power it. Solder the output of your female barrel jack to your regulator accordingly to it's provided labling, then wrap the converter with some tape to isolate the board and stash is next to the jack inside the base and you're good to go. 
-
-Check out Parts list to find component and data sheets, [Click here](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Configs/Parts%20list.md)
-
-Some advantages of using buck converter is that it gives you a voltage leeway if let's say for example you connect a 12V supply by accident for a short amount of time, that way you don't fry the 10 LED's inside the ring
-
-**The arc reactor is not designed to run of 12V so don't even try with my method of using 5V to 3.3V moduel unless you have taken proper voltage factor and accounted for the right moduel to allow you to use 12v supply!**
-
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Pictures/Miscellaneous/1PCS-DC-5V-to-3-3V-Step-Down-Power-Supply-Module-AMS1117-3-3-LDO-800MA.jpg)
+To power the LED's a 3.3V power source is required for the LED, for my arc reactor I used 20 to 40 ohm resistor to drop down the power start with 20 ohms resistor and work yourself upwards, you can use a 3.3v powered led as a referance point as to what it sould look like, also make sure you test out the resistor on a spare led so you don't accidentally fry the main arc reactor LEDs.
 
 
