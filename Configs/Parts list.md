@@ -37,9 +37,6 @@
     <th>5mm White LED Diodes</th>
     <th>10</th>
    <tr>
-    <th>5V To 3.3V Buck Converter</th>
-    <th>1</th>
-   <tr>
     <th>3.3V Star PCB LED</th>
     <th>1</th>
 </table>
@@ -54,9 +51,6 @@
 ![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/H4411874ec0c6432e85a3fefa4a102458y.png)
 ![alt text](https://github.com/ProgramFreakHD/Ark-reactor/blob/main/Pictures/Miscellaneous/5mm%20White%20LED%20Diodes.jpg)
 
-## 5V To 3.3V Buck Converter
-
-![alt text](https://github.com/ProgramFreakHD/Tony-Stark-s-Arc-Reactor-MK1/blob/main/Pictures/Miscellaneous/1PCS-DC-5V-to-3-3V-Step-Down-Power-Supply-Module-AMS1117-3-3-LDO-800MA.jpg)
 
 ## 3.3V Star PCB LED
 
